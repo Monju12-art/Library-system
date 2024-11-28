@@ -1,0 +1,24 @@
+You Don't Know JS
+ Kyle Simpson
+Available
+https://kingyinliang.github.io/PDF/%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84JavaScript%EF%BC%88%E4%B8%8B%E5%8D%B7%EF%BC%89.pdf
+Code Complete
+Steve McConnell
+Available
+https://people.engr.tamu.edu/slupoli/notes/ProgrammingStudio/supplements/Code%20Complete%202nd.pdf
+ Artificial Intelligence
+Stuart Russell and Peter Norvig
+Available
+https://people.engr.tamu.edu/guni/csce421/files/AI_Russell_Norvig.pdf
+ Python Crash Course 
+Eric Matthes
+Available
+https://khwarizmi.org/wp-content/uploads/2021/04/Eric_Matthes_Python_Crash_Course_A_Hands.pdf
+ Java for absolute beginners
+Luliana Cosmina
+Available
+https://www.academia.edu/73116294/Java_for_Absolute_Beginners
+
+
+
+https://www.academia.edu/73116294/Java_for_Absolute_Beginners
